@@ -19,7 +19,7 @@
 - Supports Multiple Languages.
 
 
-#### Detailed Task Description can be found in: Description/iOS Developer Online Round _ DEV Challenge XIX.
+#### Detailed Task Description can be found in: Description/iOS Developer Online Round _ DEV Challenge XIX (1-3).
 
 
 ### Result
