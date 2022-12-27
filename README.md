@@ -18,8 +18,8 @@
 - Developed on XCode 14+.
 - Supports Multiple Languages.
 
-### Detailed Task Description.
 
+#### Detailed Task Description can be found in: Description/iOS Developer Online Round _ DEV Challenge XIX.
 
 
 ### Result
