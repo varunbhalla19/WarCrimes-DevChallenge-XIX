@@ -19,8 +19,12 @@
 - Supports Multiple Languages.
 
 
-#### Detailed Task Description can be found in: Description/iOS Developer Online Round _ DEV Challenge XIX (1-3).
-
+#### Task Description
+<p align="middle">
+<img src="https://i.imgur.com/klNqcEz.jpg" height="400">
+<img src="https://i.imgur.com/VqRadkf.jpg" height="400">
+<img src="https://i.imgur.com/9jbmN4e.jpg" height="400">
+</p>
 
 ### Result
 
@@ -37,13 +41,13 @@
 
 
 ### Screenshots
-
+<p align="middle">
 <img src="https://i.imgur.com/soQHp71.png" height="400">
 <img src="https://i.imgur.com/EFxOHTV.png" height="400">
 <img src="https://i.imgur.com/BuvOOvU.png" height="400">
 <img src="https://i.imgur.com/815csls.png" height="400">
 <img src="https://i.imgur.com/xMoRTvZ.png" height="400">
-
+</p>
 
 ### Participation Certificate
 
